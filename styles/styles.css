@@ -129,7 +129,48 @@ ul li span{
 }
 
 .footer-right-title{
-    font-weight: bold;
+    
+    
 }
 
+.classemail{
+ padding: 10px 0;
+ padding-left: 10px;
+ background-color: black;
+ border: 3px solid white;
+ border-radius: 5%;
+}
+.subscribe-btn{
+color: #d62511 ;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+   
+  height: 45px;
+  border-radius: 5px;
+  background: #ffffff; 
+}
 
+.btn-pad{
+    padding-top: 10px;
+}
+
+/* bonus section */
+
+.new-year-pic{
+    margin: 60px 130px 230px;
+    display: flex;
+    height: 300px;
+    width: 300;
+    justify-content: space-between;
+    
+}
+.sad-pic{
+    text-align: center;
+    text-decoration: underline;
+    
+}
+
+.sad1{
+    box-shadow: 12px 12px 2px 1px rgba(27, 27, 29, 0.2);
+}
